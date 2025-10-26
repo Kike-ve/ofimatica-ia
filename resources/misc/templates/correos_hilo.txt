@@ -1,0 +1,126 @@
+========================================
+HILO DE CORREOS: CIERRE DE VENTAS Q3
+========================================
+
+---
+
+De: Laura Fernández <laura.fernandez@empresa.com>
+Para: Jorge Martín <jorge.martin@empresa.com>
+CC: Equipo Comercial
+Fecha: 15 de octubre de 2024, 09:45
+Asunto: Urgente: Situación cuenta Delta Corp
+
+Hola Jorge,
+
+Te escribo con preocupación por la cuenta Delta Corp. Han retrasado la firma del contrato Q4 y mencionan problemas de presupuesto. El importe comprometido es de 125.000€ y representa el 18% de mi cuota trimestral.
+
+¿Podrías revisar las condiciones de pago? Quizá un escalonamiento en 3 plazos ayudaría.
+
+Gracias,
+Laura
+
+---
+
+De: Jorge Martín <jorge.martin@empresa.com>
+Para: Laura Fernández <laura.fernandez@empresa.com>
+CC: Equipo Comercial, Ana García <ana.garcia@empresa.com>
+Fecha: 15 de octubre de 2024, 11:20
+Asunto: RE: Urgente: Situación cuenta Delta Corp
+
+Laura,
+
+He revisado el histórico con Delta Corp. Ya tuvieron un retraso similar en Q2 2023 que resolvimos con pago inicial del 40% + 2 cuotas mensuales.
+
+Propongo:
+- Pago inicial: 50.000€ (40%) en firma
+- 2º pago: 37.500€ (30%) a 30 días
+- 3º pago: 37.500€ (30%) a 60 días
+
+Condición: firma antes del 25 de octubre para contabilizar en Q3. Después de esa fecha, las condiciones comerciales cambian (descuento 5% → 2%).
+
+Copio a Ana García (Dirección Comercial) para aprobación.
+
+Saludos,
+Jorge
+
+---
+
+De: Ana García <ana.garcia@empresa.com>
+Para: Jorge Martín <jorge.martin@empresa.com>, Laura Fernández <laura.fernandez@empresa.com>
+CC: Equipo Comercial
+Fecha: 15 de octubre de 2024, 14:30
+Asunto: RE: Urgente: Situación cuenta Delta Corp
+
+Equipo,
+
+Aprobado el plan de Jorge. Laura, tienes luz verde para ofrecerlo a Delta Corp con las siguientes condiciones adicionales:
+
+- Cláusula de penalización por impago: 2% mensual sobre saldo pendiente
+- Revisión de cuenta si el 1º pago no se recibe antes del 31/10
+
+Prioridad ALTA: necesitamos cerrar antes del 25/10 para cumplir objetivo trimestral. El equipo va al 94% de cuota y Delta representa 6 puntos porcentuales.
+
+Laura, agenda llamada con el CFO de Delta esta semana y reporta avances diarios.
+
+Ana García
+Directora Comercial
+
+---
+
+De: Laura Fernández <laura.fernandez@empresa.com>
+Para: Ana García <ana.garcia@empresa.com>, Jorge Martín <jorge.martin@empresa.com>
+CC: Equipo Comercial
+Fecha: 16 de octubre de 2024, 10:15
+Asunto: RE: Urgente: Situación cuenta Delta Corp - UPDATE
+
+Ana, Jorge,
+
+Llamada con CFO de Delta ayer a las 16:00. Buenas noticias:
+
+✓ Aceptan propuesta de pago escalonado
+✓ Confirman firma para el 23/10 (reunión presencial, sede Madrid)
+✓ Solicitan añadir cláusula de soporte técnico prioritario (sin coste adicional, ya incluido en contrato estándar)
+
+Próximos pasos:
+- HOY (16/10): Envío contrato actualizado para revisión legal (Delta)
+- 18/10: Confirmación final de Delta
+- 23/10: Firma presencial + pago inicial 50.000€
+
+Riesgo residual: su departamento legal tiene hasta el 18/10 para aprobar. Si detectan algún problema, podríamos perder el plazo del 25/10.
+
+¿Podemos tener un plan B si esto se retrasa?
+
+Laura
+
+---
+
+De: Ana García <ana.garcia@empresa.com>
+Para: Laura Fernández <laura.fernandez@empresa.com>
+CC: Jorge Martín <jorge.martin@empresa.com>, Equipo Comercial
+Fecha: 16 de octubre de 2024, 11:50
+Asunto: RE: Urgente: Situación cuenta Delta Corp - Plan B
+
+Laura,
+
+Excelente gestión. Plan B activado por precaución:
+
+- Si Delta no firma antes del 24/10 → acelerar cierre con Epsilon Ltd (cuenta alternativa, 95.000€)
+- Jorge: prepara propuesta express para Epsilon con condiciones agresivas (descuento 8%, pago único)
+- Laura: mantén presión amigable con Delta pero no descuides a Epsilon
+
+Reunión de seguimiento: viernes 18/10 a las 09:00 (Teams). Todos convocados.
+
+Objetivo: cerrar una de las dos cuentas antes del 25/10.
+
+Ana
+
+---
+
+RESUMEN DEL HILO:
+=================
+Participantes: Laura Fernández (Comercial), Jorge Martín (Administración), Ana García (Dir. Comercial)
+Cuenta en riesgo: Delta Corp (125.000€, 18% cuota de Laura)
+Solución propuesta: Pago escalonado 40%-30%-30%
+Fecha crítica: 25 de octubre (cierre Q3)
+Plan B: Activar cuenta Epsilon Ltd (95.000€) si Delta se retrasa
+Próxima reunión: 18/10 a las 09:00

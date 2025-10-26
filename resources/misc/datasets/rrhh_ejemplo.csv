@@ -1,0 +1,31 @@
+empleado_id,nombre,departamento,fecha_alta,salario,evaluacion
+EMP001,Ana García,Ventas,2020-03-15,38000,A
+EMP002,Carlos Ruiz,Sistemas,2019-07-22,45000,B
+EMP003,María López,RR. HH.,2021-01-10,35000,A
+EMP004,Jorge Martín,Administración,2018-11-05,42000,B
+EMP005,Laura Fernández,Ventas,2022-02-18,33000,C
+EMP006,Pedro Sánchez,Sistemas,2020-09-12,48000,A
+EMP007,Isabel Torres,Marketing,2021-06-20,36000,B
+EMP008,Miguel Ángel Díaz,Administración,2019-04-08,40000,B
+EMP009,Carmen Rodríguez,RR. HH.,2023-01-15,32000,C
+EMP010,Francisco Gómez,Sistemas,2018-08-30,52000,A
+EMP011,Elena Moreno,Ventas,2020-12-01,37000,B
+EMP012,Antonio Jiménez,Marketing,2022-05-10,34000,C
+EMP013,Rosa Navarro,Administración,2021-09-25,39000,A
+EMP014,Luis Muñoz,Sistemas,2019-02-14,47000,A
+EMP015,Pilar Romero,Ventas,2023-03-08,31000,D
+EMP016,Rafael Serrano,RR. HH.,2020-07-19,36000,B
+EMP017,Beatriz Blanco,Marketing,2021-11-30,35000,B
+EMP018,Javier Castro,Administración,2018-05-22,43000,A
+EMP019,Cristina Ortiz,Sistemas,2022-08-15,44000,B
+EMP020,Alberto Rubio,Ventas,2020-10-05,38000,A
+EMP021,Mónica Delgado,Marketing,2023-02-12,33000,C
+EMP022,Fernando Vega,Administración,2019-12-18,41000,B
+EMP023,Silvia Iglesias,RR. HH.,2021-04-07,34000,B
+EMP024,Daniel Medina,Sistemas,2018-09-26,51000,A
+EMP025,Patricia Garrido,Ventas,2022-11-20,32000,C
+EMP026,Ramón Pascual,Marketing,2020-06-14,37000,A
+EMP027,Teresa Domínguez,Administración,2023-01-22,30000,D
+EMP028,Víctor Herrera,Sistemas,2019-10-11,46000,B
+EMP029,Lucía Márquez,Ventas,2021-07-28,36000,B
+EMP030,Andrés Campos,RR. HH.,2022-03-16,35000,A

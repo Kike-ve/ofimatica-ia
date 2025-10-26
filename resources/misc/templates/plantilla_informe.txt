@@ -1,0 +1,88 @@
+PLANTILLA DE INFORME EJECUTIVO
+=================================
+
+TÍTULO DEL INFORME: [Completar]
+
+Autor: [Nombre]
+Fecha: [DD/MM/AAAA]
+Versión: [1.0]
+Destinatario: [Dirección / Comité / Departamento]
+
+---
+
+## CONTEXTO
+
+[Describe brevemente la situación actual, el problema o la oportunidad que motiva este informe. 2-3 párrafos máximo.]
+
+Ejemplo:
+Durante el tercer trimestre de 2024, la organización enfrentó desafíos en la región Sur debido a cambios en la demanda y...
+
+---
+
+## HALLAZGOS CLAVE
+
+### Hallazgo 1: [Título]
+[Descripción del hallazgo con datos específicos. Incluye cifras, porcentajes y tendencias.]
+
+Evidencia:
+- Dato 1: [Cifra + fuente]
+- Dato 2: [Cifra + fuente]
+
+### Hallazgo 2: [Título]
+[Descripción del hallazgo con datos específicos.]
+
+Evidencia:
+- Dato 1: [Cifra + fuente]
+- Dato 2: [Cifra + fuente]
+
+### Hallazgo 3: [Título]
+[Descripción del hallazgo con datos específicos.]
+
+Evidencia:
+- Dato 1: [Cifra + fuente]
+- Dato 2: [Cifra + fuente]
+
+---
+
+## RECOMENDACIONES
+
+1. **[Título de recomendación 1]**
+   - Acción: [Qué hacer]
+   - Responsable: [Quién]
+   - Plazo: [Cuándo]
+   - KPI: [Métrica de éxito]
+
+2. **[Título de recomendación 2]**
+   - Acción: [Qué hacer]
+   - Responsable: [Quién]
+   - Plazo: [Cuándo]
+   - KPI: [Métrica de éxito]
+
+3. **[Título de recomendación 3]**
+   - Acción: [Qué hacer]
+   - Responsable: [Quién]
+   - Plazo: [Cuándo]
+   - KPI: [Métrica de éxito]
+
+---
+
+## PRÓXIMOS PASOS
+
+1. [Paso inmediato 1 - fecha]
+2. [Paso inmediato 2 - fecha]
+3. [Revisión de progreso - fecha]
+
+---
+
+## ANEXOS
+
+- Anexo A: Datos de ventas por región (ventas_ejemplo.csv)
+- Anexo B: Análisis detallado por producto
+- Anexo C: Metodología y supuestos
+
+---
+
+**Notas:**
+- Este informe se ha elaborado con apoyo de IA generativa (Microsoft Copilot / Google Gemini).
+- Todos los datos han sido verificados contra fuentes primarias.
+- Última revisión: [Fecha y hora]

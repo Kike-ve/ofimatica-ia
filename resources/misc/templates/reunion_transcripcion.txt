@@ -1,0 +1,151 @@
+========================================
+TRANSCRIPCIÓN DE REUNIÓN
+========================================
+
+Reunión: Revisión Estratégica Q4 2024
+Fecha: 18 de octubre de 2024
+Hora: 10:00 - 10:45 (45 minutos)
+Participantes:
+  - Ana García (Directora Comercial) [Moderadora]
+  - Jorge Martín (Jefe de Administración)
+  - Laura Fernández (Comercial Senior)
+  - Carlos Ruiz (Director de Sistemas)
+  - María López (RR. HH.)
+
+---
+
+[00:00:15] Ana García:
+Buenos días a todos. Gracias por conectaros. El objetivo de hoy es revisar el estado de las cuentas críticas para cierre de Q3 y definir prioridades para Q4. Tenemos 45 minutos, así que vamos directos al grano. Laura, empezamos contigo. ¿Cómo va Delta Corp?
+
+[00:00:42] Laura Fernández:
+Hola equipo. Delta Corp está en verde. Ayer recibimos confirmación del departamento legal y la firma está programada para el 23 de octubre a las 11:00 en Madrid. El pago inicial de 50.000 euros llegará ese mismo día por transferencia. El resto del importe, 75.000 euros, en dos cuotas: una el 23 de noviembre y otra el 23 de diciembre.
+
+[00:01:18] Ana García:
+Perfecto. Eso nos asegura el 18% que faltaba para la cuota de Laura. Jorge, ¿algún riesgo en la parte administrativa o financiera?
+
+[00:01:30] Jorge Martín:
+Ninguno. El contrato está listo, revisado por legal y firmado por nuestra parte. En cuanto Delta firme, activamos el proceso de facturación. El único punto a vigilar es que el primer pago llegue antes del 31 de octubre para contabilizarlo en Q3. Laura, ¿puedes confirmar con el CFO de Delta que la transferencia se ejecuta el mismo día 23?
+
+[00:01:58] Laura Fernández:
+Sí, ya está confirmado. Tienen orden de pago aprobada y me enviaron captura del sistema bancario. No veo riesgo ahí.
+
+[00:02:10] Ana García:
+Excelente. Siguiente tema: Plan de formación en IA para Q4. María, ¿qué tenemos?
+
+[00:02:20] María López:
+Hemos detectado una necesidad importante de formación en herramientas de IA generativa, especialmente en los equipos de Ventas y Administración. Propongo un programa de 4 sesiones:
+
+Sesión 1 - Introducción a IA generativa y Copilot (2 horas)
+Sesión 2 - Word y Outlook con IA (3 horas, práctica intensiva)
+Sesión 3 - Excel y análisis de datos con IA (3 horas)
+Sesión 4 - Buenas prácticas, ética y seguridad (2 horas)
+
+El coste estimado es de 12.000 euros para 25 personas. Inicio propuesto: primera semana de noviembre.
+
+[00:03:15] Ana García:
+Carlos, desde Sistemas, ¿hay algo que debamos considerar en infraestructura o licencias?
+
+[00:03:22] Carlos Ruiz:
+Sí. Para que el equipo pueda usar Copilot necesitamos actualizar 15 licencias de Microsoft 365 a la versión Enterprise con Copilot. Eso son 360 euros por usuario al año, es decir, 5.400 euros anuales adicionales. Podemos activarlo en una semana si tenemos aprobación presupuestaria.
+
+[00:03:50] Jorge Martín:
+Espera, eso son 17.400 euros en total: 12.000 de formación más 5.400 de licencias. No estaba en el presupuesto de Q4. Tendríamos que reasignar partidas o posponer otros gastos.
+
+[00:04:10] Ana García:
+Es una inversión estratégica. Si logramos aumentar la productividad un 15% en el equipo comercial, el ROI se recupera en Q1 2025. Propongo aprobarlo y ajustar el presupuesto reduciendo gasto en consultoría externa. ¿Opiniones?
+
+[00:04:35] Carlos Ruiz:
+Apoyo la propuesta. La IA ya es crítica. Cuanto antes empecemos, mejor.
+
+[00:04:42] Laura Fernández:
+Totalmente de acuerdo. En Ventas necesitamos esto urgente. Copilot nos va a ahorrar horas en informes y preparación de propuestas.
+
+[00:04:55] Jorge Martín:
+De acuerdo, pero con una condición: medimos resultados. Quiero un KPI claro: tiempo promedio de elaboración de informes antes y después de la formación. Si no vemos mejora en Q1, revisamos la inversión.
+
+[00:05:15] Ana García:
+Perfecto. María, ¿puedes incluir esa métrica en el diseño del programa?
+
+[00:05:20] María López:
+Sí, lo añado. Haremos medición pre-formación en la última semana de octubre y post-formación en febrero 2025.
+
+[00:05:35] Ana García:
+Bien. Decisión tomada: aprobamos formación y licencias. María coordina con Carlos el calendario. Jorge, ajusta presupuesto y nos pasas la propuesta final el lunes.
+
+Siguiente punto: Pipeline Q4. Laura, ¿qué cuentas nuevas tenemos en prospección?
+
+[00:06:05] Laura Fernández:
+Tenemos tres cuentas grandes en fase avanzada:
+
+1. Epsilon Ltd - 95.000 euros (probabilidad 70%, cierre estimado 15 de noviembre)
+2. Gamma Innovations - 140.000 euros (probabilidad 50%, cierre estimado diciembre)
+3. Theta Solutions - 80.000 euros (probabilidad 60%, cierre estimado 30 de noviembre)
+
+El riesgo mayor es Gamma porque dependen de aprobación de su casa matriz en Alemania. Las otras dos están más controladas.
+
+[00:07:00] Ana García:
+Entendido. Prioriza Epsilon y Theta. Si Gamma se retrasa, no pasa nada, lo contabilizamos en Q1. ¿Necesitas apoyo técnico de Carlos en alguna de estas?
+
+[00:07:15] Laura Fernández:
+Sí, en Gamma. Están pidiendo una demo técnica avanzada de integración con su ERP. Carlos, ¿puedes acompañarme la semana del 28 de octubre?
+
+[00:07:28] Carlos Ruiz:
+Agendado. Mándame los requisitos técnicos que te pasen y preparo la demo.
+
+[00:07:40] Ana García:
+Perfecto. Último tema rápido: riesgos y bloqueos. ¿Alguien tiene algo crítico que reportar?
+
+[00:08:00] Jorge Martín:
+Un riesgo menor: el proveedor de software de contabilidad tiene mantenimiento programado del 25 al 27 de octubre. Durante esos días no podremos emitir facturas. He pedido que lo adelanten al 18-20, pero aún no confirman.
+
+[00:08:20] Ana García:
+¿Impacta en Delta Corp?
+
+[00:08:25] Jorge Martín:
+No, porque la firma es el 23 y la factura la emitimos el 24. Llegaríamos justo antes del mantenimiento.
+
+[00:08:35] Ana García:
+Ok, síguelo de cerca y avísanos si hay cambios. ¿Algo más?
+
+[00:08:45] Carlos Ruiz:
+Nada por mi parte.
+
+[00:08:48] María López:
+Todo bien.
+
+[00:08:50] Laura Fernández:
+Nada adicional.
+
+[00:08:55] Ana García:
+Perfecto. Resumo las decisiones de hoy:
+
+DECISIÓN 1: Delta Corp confirmado para firma el 23/10. Laura gestiona y Jorge supervisa pago inicial antes del 31/10.
+
+DECISIÓN 2: Aprobamos programa de formación en IA (12.000 euros) + licencias Copilot (5.400 euros). María coordina con Carlos. Jorge ajusta presupuesto para el lunes.
+
+DECISIÓN 3: Prioridad Q4 en Epsilon Ltd y Theta Solutions. Laura y Carlos coordinan demo técnica para Gamma el 28/10.
+
+TAREAS ASIGNADAS:
+- Laura: Confirmar transferencia Delta con CFO (23/10)
+- Jorge: Propuesta presupuestaria ajustada (lunes 21/10)
+- María: Medición pre-formación (última semana octubre)
+- Carlos: Preparar demo técnica Gamma (28/10)
+
+RIESGOS IDENTIFICADOS:
+- Mantenimiento proveedor contabilidad (25-27/10) → Jorge monitorea
+- Aprobación Gamma desde Alemania → Laura escala si no hay respuesta 1/11
+
+Próxima reunión: 1 de noviembre, 10:00. Revisión de resultados Q3 final y arranque Q4.
+
+¿Dudas?
+
+[00:10:20] [Silencio general]
+
+[00:10:25] Ana García:
+Perfecto. Gracias a todos. Buen trabajo, equipo.
+
+[00:10:30] [Fin de la reunión]
+
+========================================
+FIN DE LA TRANSCRIPCIÓN
+========================================
