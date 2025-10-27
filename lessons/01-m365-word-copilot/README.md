@@ -27,8 +27,12 @@ Un patrón útil: generar un **índice** con Copilot, validar las secciones nece
 ## Recursos adicionales
 > **Enlaces externos**: Los enlaces se abren en la misma pestaña. Usa Ctrl+Click (Windows/Linux) o Cmd+Click (Mac) para abrirlos en pestaña nueva.
 
-- <a href="https://learn.microsoft.com/microsoft-365/copilot/microsoft-365-copilot-word-overview" target="_blank">Copilot en Word (Guía)</a>
-- <a href="https://support.microsoft.com/office/word" target="_blank">Soporte Word en Microsoft 365</a>
-- <a href="sandbox:/mnt/data/plantillas/plantilla_informe.txt" target="_blank">Plantilla de informe (descargable)</a>
-- <a href="sandbox:/mnt/data/datasets/ventas_ejemplo.csv" target="_blank">Dataset Ventas (CSV)</a>
-- <a href="sandbox:/mnt/data/datasets/rrhh_ejemplo.csv" target="_blank">Dataset RR. HH. (CSV)</a>
+### Documentación oficial
+- <a href="https://learn.microsoft.com/es-es/copilot/microsoft-365/microsoft-365-copilot-overview" target="_blank">Copilot para Microsoft 365 - Documentación oficial</a>
+- <a href="https://support.microsoft.com/es-es/office/bienvenido-a-copilot-en-word-2135e85f-a467-463b-b2f0-c51a46d625d1" target="_blank">Bienvenido a Copilot en Word - Microsoft Support</a>
+- <a href="https://blog.beservices.es/blog/que-es-como-funciona-microsoft-copilot" target="_blank">Qué es y cómo funciona Microsoft Copilot - Blog beServices</a>
+
+### Recursos del curso
+- <a href="../../resources/misc/templates/plantilla_informe.txt">Plantilla de informe (descargable)</a>
+- <a href="../../resources/misc/datasets/ventas_ejemplo.csv">Dataset Ventas (CSV)</a>
+- <a href="../../resources/misc/datasets/rrhh_ejemplo.csv">Dataset RR. HH. (CSV)</a>
