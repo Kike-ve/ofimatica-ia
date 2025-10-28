@@ -25,9 +25,12 @@ Gmail con Gemini genera primeras respuestas y organiza borradores por prioridad.
 ## Recursos adicionales
 > **Enlaces externos**: Los enlaces se abren en la misma pestaña. Usa Ctrl+Click (Windows/Linux) o Cmd+Click (Mac) para abrirlos en pestaña nueva.
 
+### Documentación oficial
 - <a href="https://workspace.google.com/products/ai/" target="_blank">Gemini para Workspace (visión general)</a>
 - <a href="https://gemini.google.com" target="_blank">Gemini (acceso)</a>
 - <a href="https://support.google.com/docs/" target="_blank">Soporte de Docs</a>
 - <a href="https://support.google.com/sheets/" target="_blank">Soporte de Sheets</a>
 - <a href="https://support.google.com/mail/" target="_blank">Soporte de Gmail</a>
-- <a href="sandbox:/mnt/data/datasets/rrhh_ejemplo.csv" target="_blank">Dataset RR. HH. (CSV)</a>
+
+### Recursos del curso
+- [Dataset RR. HH. (CSV)](../../resources/misc/datasets/rrhh_ejemplo.csv)

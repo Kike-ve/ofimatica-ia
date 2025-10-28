@@ -17,10 +17,12 @@ En Excel, Copilot acelera la exploración: describe en lenguaje natural lo que q
 ## Recursos adicionales
 > **Enlaces externos**: Los enlaces se abren en la misma pestaña. Usa Ctrl+Click (Windows/Linux) o Cmd+Click (Mac) para abrirlos en pestaña nueva.
 
-- <a href="https://learn.microsoft.com/microsoft-365/copilot/microsoft-365-copilot-outlook-overview" target="_blank">Copilot en Outlook (Guía)</a>
-- <a href="https://support.microsoft.com/outlook" target="_blank">Soporte de Outlook</a>
-- <a href="https://learn.microsoft.com/microsoft-365/copilot/microsoft-365-copilot-excel-overview" target="_blank">Copilot en Excel (Guía)</a>
-- <a href="https://support.microsoft.com/excel" target="_blank">Soporte de Excel</a>
-- <a href="sandbox:/mnt/data/datasets/ventas_ejemplo.csv" target="_blank">Dataset Ventas (CSV)</a>
-- <a href="sandbox:/mnt/data/datasets/ventas_ejemplo.xlsx" target="_blank">Dataset Ventas (XLSX)</a>
-- <a href="sandbox:/mnt/data/plantillas/correos_hilo.txt" target="_blank">Hilo de correos (TXT)</a>
+### Documentación oficial
+- <a href="https://support.microsoft.com/es-es/office/introducción-a-copilot-en-outlook-0d6ea44f-104c-48c8-b4a8-b1db9d554e81" target="_blank">Introducción a Copilot en Outlook - Microsoft Support</a>
+- <a href="https://support.microsoft.com/es-es/office/introducción-a-copilot-en-excel-d7110502-0334-4b4f-a175-a73abdfc118a" target="_blank">Introducción a Copilot en Excel - Microsoft Support</a>
+- <a href="https://learn.microsoft.com/es-es/copilot/microsoft-365/microsoft-365-copilot-overview" target="_blank">Copilot para Microsoft 365 - Documentación oficial</a>
+
+### Recursos del curso
+- <a href="../../resources/misc/datasets/ventas_ejemplo.csv">Dataset Ventas (CSV)</a>
+- <a href="../../resources/misc/datasets/ventas_ejemplo.xlsx">Dataset Ventas (XLSX)</a>
+- <a href="../../resources/misc/templates/correos_hilo.txt">Hilo de correos (TXT)</a>

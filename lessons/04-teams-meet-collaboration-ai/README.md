@@ -21,9 +21,12 @@ La adopción responsable requiere: informar a los asistentes, respetar permisos 
 ## Recursos adicionales
 > **Enlaces externos**: Los enlaces se abren en la misma pestaña. Usa Ctrl+Click (Windows/Linux) o Cmd+Click (Mac) para abrirlos en pestaña nueva.
 
-- <a href="https://learn.microsoft.com/microsoft-365/copilot/microsoft-365-copilot-teams-overview" target="_blank">Copilot en Teams (Guía)</a>
-- <a href="https://support.microsoft.com/teams" target="_blank">Soporte de Teams</a>
+### Documentación oficial
+- <a href="https://learn.microsoft.com/es-es/microsoft-365/copilot/microsoft-365-copilot-teams-overview" target="_blank">Copilot en Teams (Guía)</a>
+- <a href="https://support.microsoft.com/es-es/teams" target="_blank">Soporte de Teams</a>
 - <a href="https://support.google.com/meet/" target="_blank">Meet con IA: transcripción y resúmenes</a>
-- <a href="sandbox:/mnt/data/plantillas/reunion_transcripcion.txt" target="_blank">Plantilla de transcripción (TXT)</a>
-- <a href="sandbox:/mnt/data/datasets/ventas_ejemplo.csv" target="_blank">Dataset Ventas (CSV)</a>
-- <a href="sandbox:/mnt/data/datasets/rrhh_ejemplo.csv" target="_blank">Dataset RR. HH. (CSV)</a>
+
+### Recursos del curso
+- [Plantilla de transcripción (TXT)](../../resources/misc/templates/reunion_transcripcion.txt)
+- [Dataset Ventas (CSV)](../../resources/misc/datasets/ventas_ejemplo.csv)
+- [Dataset RR. HH. (CSV)](../../resources/misc/datasets/rrhh_ejemplo.csv)
